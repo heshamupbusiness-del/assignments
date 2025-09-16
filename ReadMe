@@ -1,0 +1,6 @@
+This Python program is a simple calculator that performs basic arithmetic operations—addition, subtraction, multiplication, and division.
+
+The user selects an operation (1–4), inputs two numbers, and the program returns the result.
+
+It also handles invalid choices and prevents division by zero errors.
+
